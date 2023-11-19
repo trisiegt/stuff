@@ -1,5 +1,7 @@
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
 :root {
   --app-font: "Google Sans";
   --app-bg: var(--main-alt);
@@ -200,7 +202,7 @@
  *
  */
 * {
-  font-family: var(--app-font), sans-serif !important;
+  font-family: var(--app-font), 'Comfortaa', sans-serif !important;
 }
 
 ::selection {
